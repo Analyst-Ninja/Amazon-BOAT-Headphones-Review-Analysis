@@ -21,12 +21,16 @@ I used Wordcloud to visualize the most common words in the customer reviews. The
 
 Insights:
 
+![Wordcloud - Positive Resposes](https://github.com/Analyst-Ninja/Amazon-BOAT-Headphones-Review-Analysis/assets/81576967/12607ef6-6fc2-4326-9480-9d307a7e1fca)
+
 Features that are appreciated by the customers are given below:
 1.	Sound Quality 
 2.	Good Battery Life
 3.	Good Service
 4.	Build Quality
 5.	Noise Cancellation
+
+![Wordcloud - Negetive Respose](https://github.com/Analyst-Ninja/Amazon-BOAT-Headphones-Review-Analysis/assets/81576967/e230a982-d7fc-4197-95e0-47d468a118aa)
 
 Points given below product needs to work on to win customers:
 1.	Noise Cancellation
@@ -37,4 +41,4 @@ Points given below product needs to work on to win customers:
 
 Conclusion: 
 
-In conclusion, my analysis showed that the BOAT headphones were generally well-liked by customers. By using the OpenAI API to generate positive and negative tags, I was able to gain deeper insights into the sentiment of the reviews. The wordcloud provided a visual representation of the most common words used in the reviews.
+In conclusion, my analysis showed that the BOAT headphones were generally well-liked by customers. By using the OpenAI API to generate positive and negative tags, I was able to gain deeper insights into the sentiment of the reviews. The word cloud provided a visual representation of the most common words used in the reviews.
